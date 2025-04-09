@@ -1,6 +1,6 @@
-# Sistema de Gerenciamento para Oficina Mecânica
+# Descrição do Projeto Lógico - Sistema de Gerenciamento para Oficina Mecânica
 
-## Visão Geral
+## 📌 Visão Geral
 Este projeto consiste em um banco de dados SQL completo para gestão de oficinas mecânicas, desde o cadastro de clientes e veículos até o controle de serviços, peças, ordens de serviço e pagamentos. O sistema foi projetado para otimizar as operações diárias de uma oficina automotiva, proporcionando um controle eficiente de todos os aspectos do negócio.
 
 ## Principais Funcionalidades
