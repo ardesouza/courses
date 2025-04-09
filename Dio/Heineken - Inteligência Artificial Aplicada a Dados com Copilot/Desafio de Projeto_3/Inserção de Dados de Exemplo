@@ -1,4 +1,4 @@
-´´´SQL
+```SQL
 -- Inserção de Clientes
 INSERT INTO Cliente (Nome, Tipo, Endereco, Telefone, CPF_CNPJ, Email) VALUES
 ('João Silva', 'PF', 'Rua das Flores, 123 - São Paulo/SP', '11987654321', '12345678901', 'joao.silva@email.com'),
