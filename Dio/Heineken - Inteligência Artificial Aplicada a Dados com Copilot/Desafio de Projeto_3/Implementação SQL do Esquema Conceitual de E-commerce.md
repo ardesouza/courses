@@ -1,4 +1,4 @@
-## 💡 Script SQL de Criação do Bancos e das Tabelas
+## 💡 Script SQL de Criação do Banco e das Tabelas
 ```sql
 -- Criação do banco de dados
 CREATE DATABASE ecommerce;
