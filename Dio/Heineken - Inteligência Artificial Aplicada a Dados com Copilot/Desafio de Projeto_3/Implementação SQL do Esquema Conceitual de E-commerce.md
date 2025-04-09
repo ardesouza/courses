@@ -1,5 +1,5 @@
-## 💡 Destaques Técnicos
-'''SQL
+## 💡 Script SQL de Ciração do Bancos e das Tabelas
+```sql
 -- Criação do banco de dados
 CREATE DATABASE ecommerce;
 USE ecommerce;
