@@ -34,5 +34,5 @@ O relatório completo de implementação, contendo a descrição dos serviços, 
 
 ## Observação
 
-Este projeto foi desenvolvido como parte de um desafio educacional sobre computação em nuvem. As implementações e os benefícios apresentados são propostas para fins de estudo, não representando uma implantação real na empresa.
+As soluções apresentadas neste projeto representam uma proposta de otimização da infraestrutura tecnológica da Abstergo Industries, com foco na redução de custos operacionais, melhor utilização dos recursos e eficiência dos serviços de TI.
 
